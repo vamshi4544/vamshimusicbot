@@ -1,4 +1,4 @@
-AMMU MUSIC BOT
+🇦‌🇲‌🇲‌🇺‌ 🇲‌🇺‌🇸‌🇮‌🇨‌ 🇧‌🇴‌🇹‌
 
 <p align="center"><a href="https://t.me/Honey_Music_Robot"> <img src="https://img.shields.io/badge/𝐇𝐨𝐧𝐞𝐲 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭-black?&style=for-the-badge&=telegram" width="200" height="45.45"></a></p>
 
