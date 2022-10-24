@@ -102,7 +102,7 @@ async def play(_, message: Message):
     global que
     global useer
 
-    lel = await message.reply("🔎 **పాటను వెతుకుతున్న 😒 ❰ 𝗚-𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗠𝘂𝘀𝗶𝗰 😇 ❱...**")
+    lel = await message.reply("⌛")
 
     administrators = await get_administrators(message.chat)
     chid = message.chat.id
