@@ -13,11 +13,11 @@
 
 ## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐨𝐧 𝐇𝐞𝐫𝐨𝐤𝐮 🤫
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/RobinMusiczz/honeyMusicBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/RobinMusiczz/honeyMusicBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-blue?style=for-the-badge&=heroku" width="220" height="38.45"/></a></p>
 
 ## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐨𝐧 𝐎𝐤𝐭𝐞𝐭𝐨 🤭
 
-<p align="center"><a href="https://cloud.okteto.com/new?template=https://github.com/RobinMusiczz/honeyMusicBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Okteto-black?style=for-the-badge&=Okteto" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://cloud.okteto.com/new?template=https://github.com/RobinMusiczz/honeyMusicBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Okteto-blue?style=for-the-badge&=Okteto" width="220" height="38.45"/></a></p>
 
 ## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐨𝐧 𝐑𝐚𝐢𝐥𝐰𝐚𝐲 🤨
 <br><b> Necessary Variables in config.py file you have to fill. </b><br>
@@ -27,7 +27,7 @@
 ## 𝐖𝐨𝐫𝐤𝐟𝐥𝐨𝐰𝐬 𝐇𝐨𝐬𝐭𝐢𝐧𝐠 🤗
 
 <h4>Fork this project first. How to host? Simply import your variable code then fill your vars in config.py then go to Actions and check build logs!</h4>
-<p align="center"><a href="https://github.com/RobinMusiczz/honeyMusicBot/fork"><img src="https://img.shields.io/badge/Workflow%20Deploy-black?style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://github.com/RobinMusiczz/honeyMusicBot/fork"><img src="https://img.shields.io/badge/Workflow%20Deploy-blue?style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
 
 ## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐎𝐧 𝐕𝐏𝐒 𝐒𝐞𝐫𝐯𝐞𝐫 👻
 
@@ -49,6 +49,6 @@ python3 main.py # Run the bot
 
 <p align="center"> 【⋆𝐆𝐫𝐨𝐮𝐩 ✘ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥⋆】 </p>
 
-<p align="center"><a href="https://t.me/TeluguFriendsClub"><img src="https://img.shields.io/badge/𝐒𝐔𝐏𝐏𝐎𝐑𝐓-black?&style=for-the-badge&logo=telegram" width="200" height="45.45"></a></p>
-<p align="center"><a href="https://t.me/rjbr0"><img src="https://img.shields.io/badge/𝐂𝐇𝐀𝐍𝐍𝐄𝐋-black?&style=for-the-badge&logo=telegram" width="200" height="45.45"></a></p>
+<p align="center"><a href="https://t.me/TeluguFriendsClub"><img src="https://img.shields.io/badge/𝐒𝐔𝐏𝐏𝐎𝐑𝐓-Green?&style=for-the-badge&logo=telegram" width="200" height="45.45"></a></p>
+<p align="center"><a href="https://t.me/rjbr0"><img src="https://img.shields.io/badge/𝐂𝐇𝐀𝐍𝐍𝐄𝐋-Green?&style=for-the-badge&logo=telegram" width="200" height="45.45"></a></p>
 
