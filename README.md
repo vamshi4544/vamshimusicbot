@@ -6,9 +6,7 @@
 <p align="center">
 
 
-[![𝐈𝐚𝐦 𝐆𝐫𝐨𝐨𝐭 🌱](https://telegra.ph//file/a8da659b4ace64c06edd0.jpg)](https://t.me/MyNameIsGroot)
-
-## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 & 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 😊
+## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 & 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 👀
 
 <p align="center"><a href="https://iv.iamidiotareyoutoo.com/1016b36829514d0ba3f7a1a7d4c23ec1_vTelegraphBot"> <img src="https://img.shields.io/badge/𝐁𝐨𝐭 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬-black?&style=for-the-badge&=telegram" width="200" height="45.45"></a></p>
 
@@ -48,6 +46,7 @@ cp example.env .env #Use vim to edit ENVs
 vim .env #Fill up your ENVs ( Steps press i to enter in insert mode then edit the file. Press Esc to exit the editing mode then type :wq! and press Enter key to save the file.)
 python3 main.py # Run the bot
 ```
+[![𝐈𝐚𝐦 𝐆𝐫𝐨𝐨𝐭 🌱](https://telegra.ph//file/a8da659b4ace64c06edd0.jpg)](https://t.me/MyNameIsGroot)
 
 <p align="center"> 【⋆𝐆𝐫𝐨𝐮𝐩 ✘ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥⋆】 </p>
 
