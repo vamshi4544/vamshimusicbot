@@ -8,7 +8,7 @@ AMMU MUSIC BOT
     <br><b>𝐇𝐨𝐧𝐞𝐲 𝐌𝐮𝐬𝐢𝐜 𝐈𝐬 𝐚 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐁𝐨𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐓𝐡𝐚𝐭'𝐬 𝐀𝐥𝐥𝐨𝐰 𝐘𝐨𝐮 𝐓𝐨 𝐏𝐥𝐚𝐲 𝐌𝐮𝐬𝐢𝐜 𝐎𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐕𝐨𝐢𝐜𝐞 𝐂𝐡𝐚𝐭 𝐆𝐫𝐨𝐮𝐩</b><br>
 
 
-[![𝐈𝐚𝐦 𝐆𝐫𝐨𝐨𝐭 🌱](https://te.legra.ph/file/651061f4a4dc0d39fb0ee.jpg)](https://t.me/MyNameIsGroot)
+[![𝐈𝐚𝐦 𝐆𝐫𝐨𝐨𝐭 🌱](https://telegra.ph//file/a8da659b4ace64c06edd0.jpg)](https://t.me/MyNameIsGroot)
 
 ## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 & 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 😊
 
