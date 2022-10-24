@@ -318,7 +318,7 @@ async def play(_, message: Message):
         position = await queues.put(chat_id, file=file_path)
         await message.reply_photo(
             photo="final.png",
-            caption="****🌱 𝗚-𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗠𝘂𝘀𝗶𝗰 𝗦𝗼𝗻𝗴 𝗣𝗼𝘀𝗶𝘁𝗶𝗼𝗻** {}**".format(position),
+            caption="****🧚 𝗔𝗺𝗺𝘂 🍄 𝗠𝘂𝘀𝗶𝗰 𝗦𝗼𝗻𝗴 𝗣𝗼𝘀𝗶𝘁𝗶𝗼𝗻** {}**".format(position),
             reply_markup=keyboard,
         )
     else:
@@ -336,7 +336,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="**🌱 𝗚𝗿𝗼𝗼𝘁 𝗠𝘂𝘀𝗶𝗰 𝗡𝗼𝘄 𝗣𝗹𝗮𝘆𝗶𝗻𝗴 𝗢𝗣 😌`{}`...**".format(
+            caption="**🧚 𝗔𝗺𝗺𝘂 🍄 𝗡𝗼𝘄 𝗣𝗹𝗮𝘆𝗶𝗻𝗴 👌`{}`...**".format(
         message.chat.title
         ), )
 
