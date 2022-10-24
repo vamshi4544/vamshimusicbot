@@ -43,7 +43,7 @@ async def stop(_, message: Message):
         pass
 
     await grootmusic.pytgcalls.leave_group_call(message.chat.id)
-    await message.reply_text("**❌ ప్రసారం ఆగిపోయింది ✨**")
+    await message.reply_text("**ʙᴏᴛ ɪsɴ'ᴛ sᴛʀᴇᴀᴍɪɴɢ ᴏɴ ᴠɪᴅᴇᴏ ᴄʜᴀᴛ.**")
 
 @Client.on_message(command(["skip"]) & other_filters)
 @errors
