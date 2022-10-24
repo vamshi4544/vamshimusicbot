@@ -5,7 +5,6 @@
 <p align="center"><a href="https://t.me/rjbr0"><img src="https://telegra.ph//file/dbb9fe2d8746340eec9b1.jpg"></a></p>
 <p align="center">
 
-
 ## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬/𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬👀
 
 <p align="center"><a href="https://iv.iamidiotareyoutoo.com/1016b36829514d0ba3f7a1a7d4c23ec1_vTelegraphBot"> <img src="https://img.shields.io/badge/𝐁𝐨𝐭 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬-pink?&style=for-the-badge&=telegram" width="200" height="45.45"></a></p>
