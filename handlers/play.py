@@ -254,7 +254,7 @@ async def play(_, message: Message):
     else:
         if len(message.command) < 2:
             return await lel.edit(
-                "**✌️మీరు ప్లే చేయాలనుకుంటున్న పాట ఏమిటి ▶ **"
+                "**𝐮𝐬𝐚𝐠𝐞:/play (songname)**"
             )
         await lel.edit("**𝐈'𝐦 🧚 𝗔𝗺𝗺𝘂 🏝️ 𝐈'𝐦  𝐫𝐞𝐚𝐝𝐲 𝐭𝐨 𝐩𝐥𝐚𝐲👀**")
         query = message.text.split(None, 1)[1]
