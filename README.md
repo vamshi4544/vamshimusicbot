@@ -1,9 +1,6 @@
 🇦‌🇲‌🇲‌🇺‌ 🇲‌🇺‌🇸‌🇮‌🇨‌ 🇧‌🇴‌🇹‌
 
-<p align="center"><a href="https://t.me/Honey_Music_Robot"> <img src="https://img.shields.io/badge/𝐇𝐨𝐧𝐞𝐲 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭-black?&style=for-the-badge&=telegram" width="200" height="45.45"></a></p>
-
-
-<p align="center"><a href="https://t.me/rjbr0"><img src="https://te.legra.ph/file/43eb81b7a99092f9a3197.jpg"></a></p>
+<p align="center"><a href="https://t.me/rjbr0"><img src="https://telegra.ph//file/dbb9fe2d8746340eec9b1.jpg"></a></p>
 <p align="center">
     <br><b> 𝐌𝐮𝐬𝐢𝐜 𝐈𝐬 𝐚 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐁𝐨𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐓𝐡𝐚𝐭'𝐬 𝐀𝐥𝐥𝐨𝐰 𝐘𝐨𝐮 𝐓𝐨 𝐏𝐥𝐚𝐲 𝐌𝐮𝐬𝐢𝐜 𝐎𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐕𝐨𝐢𝐜𝐞 𝐂𝐡𝐚𝐭 𝐆𝐫𝐨𝐮𝐩</b><br>
 
