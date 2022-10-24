@@ -29,9 +29,7 @@ async def pause(_, message: Message):
 @authorized_users_only
 async def stop(_, message: Message):
     await grootmusic.pytgcalls.stop_stream(message.chat.id)
-    await message.reply_text(" ➻ sᴛʀᴇᴀᴍ ᴇɴᴅᴇᴅ/sᴛᴏᴩᴩᴇᴅ ❄
-│ 
-└ʙʏ : 🥀")
+    await message.reply_text("** ➻ sᴛʀᴇᴀᴍ ᴇɴᴅᴇᴅ/sᴛᴏᴩᴩᴇᴅ ❄🥀 **")
 
 
 @Client.on_message(command(["resume"]) & other_filters)
