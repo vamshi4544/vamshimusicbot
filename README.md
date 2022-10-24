@@ -22,7 +22,7 @@
 ## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐨𝐧 𝐑𝐚𝐢𝐥𝐰𝐚𝐲 🤨
 <br><b> Necessary Variables in config.py file you have to fill. </b><br>
 
-<p align="center"><a href="https://railway.app/new/new?template=https://github.com/RobinMusiczz/honeyMusicBot-Deploy&envs=SESSION_NAME,BOT_TOKEN,BOT_NAME,BOT_USERNAME,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT"> <img src="https://img.shields.io/badge/Deploy%20on%20Railway-black?style=for-the-badge&=railway" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://railway.app/new/new?template=https://github.com/RobinMusiczz/honeyMusicBot-Deploy&envs=SESSION_NAME,BOT_TOKEN,BOT_NAME,BOT_USERNAME,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT"> <img src="https://img.shields.io/badge/Deploy%20on%20Railway-blue?style=for-the-badge&=railway" width="220" height="38.45"/></a></p>
 
 ## 𝐖𝐨𝐫𝐤𝐟𝐥𝐨𝐰𝐬 𝐇𝐨𝐬𝐭𝐢𝐧𝐠 🤗
 
