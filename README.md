@@ -6,7 +6,7 @@
 <p align="center">
 
 
-## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 & 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 👀
+## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 & 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬👀
 
 <p align="center"><a href="https://iv.iamidiotareyoutoo.com/1016b36829514d0ba3f7a1a7d4c23ec1_vTelegraphBot"> <img src="https://img.shields.io/badge/𝐁𝐨𝐭 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬-black?&style=for-the-badge&=telegram" width="200" height="45.45"></a></p>
 
