@@ -1,15 +1,12 @@
-# 𝐇𝐨𝐧𝐞𝐲𝐌𝐮𝐬𝐢𝐜𝐁𝐨𝐭 🌱
+AMMU MUSIC BOT
 
 <p align="center"><a href="https://t.me/Honey_Music_Robot"> <img src="https://img.shields.io/badge/𝐇𝐨𝐧𝐞𝐲 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭-black?&style=for-the-badge&=telegram" width="200" height="45.45"></a></p>
 
-# 🇳 🇴 🇹 🇪 
-# 𝐃𝐨𝐧'𝐭 𝐈𝐦𝐩𝐨𝐫𝐭 𝐓𝐡𝐢𝐬 𝐑𝐞𝐩𝐨, 𝐈𝐟 𝐘𝐨𝐮 𝐈𝐦𝐩𝐨𝐫𝐭 𝐘𝐨𝐮𝐫 𝐀𝐜𝐜𝐨𝐮𝐧𝐭 𝐖𝐢𝐥𝐥 𝐆𝐞𝐭 𝐁𝐚𝐧𝐧𝐞𝐝 😏
 
 <p align="center"><a href="https://t.me/rjbr0"><img src="https://te.legra.ph/file/43eb81b7a99092f9a3197.jpg"></a></p>
 <p align="center">
     <br><b>𝐇𝐨𝐧𝐞𝐲 𝐌𝐮𝐬𝐢𝐜 𝐈𝐬 𝐚 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐁𝐨𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐓𝐡𝐚𝐭'𝐬 𝐀𝐥𝐥𝐨𝐰 𝐘𝐨𝐮 𝐓𝐨 𝐏𝐥𝐚𝐲 𝐌𝐮𝐬𝐢𝐜 𝐎𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐕𝐨𝐢𝐜𝐞 𝐂𝐡𝐚𝐭 𝐆𝐫𝐨𝐮𝐩</b><br>
 
-### యజమాని【⋆𝐈𝐚𝐦 ✘ 𝐆𝐫𝐨𝐨𝐭⋆】😒
 
 [![𝐈𝐚𝐦 𝐆𝐫𝐨𝐨𝐭 🌱](https://te.legra.ph/file/651061f4a4dc0d39fb0ee.jpg)](https://t.me/MyNameIsGroot)
 
