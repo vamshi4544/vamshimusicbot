@@ -24,6 +24,15 @@ async def pause(_, message: Message):
     await grootmusic.pytgcalls.pause_stream(message.chat.id)
     await message.reply_text("**▶️ విరామం 😔**")
 
+@Client.on_message(command(["stop"]) & other_filters)
+@errors
+@authorized_users_only
+async def resume(_, message: Message):
+    await grootmusic.pytgcalls.resume_stream(message.chat.id)
+    await message.reply_text("**➻ sᴛʀᴇᴀᴍ ᴇɴᴅᴇᴅ/sᴛᴏᴩᴩᴇᴅ ❄
+│ 
+└ʙʏ :🥀**")
+
 
 @Client.on_message(command(["resume"]) & other_filters)
 @errors
