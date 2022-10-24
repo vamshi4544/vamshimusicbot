@@ -27,11 +27,11 @@ async def pause(_, message: Message):
 @Client.on_message(command(["stop"]) & other_filters)
 @errors
 @authorized_users_only
-async def resume(_, message: Message):
+async def stop(_, message: Message):
     await grootmusic.pytgcalls.resume_stream(message.chat.id)
-    await message.reply_text("**➻ sᴛʀᴇᴀᴍ ᴇɴᴅᴇᴅ/sᴛᴏᴩᴩᴇᴅ ❄
+    await message.reply_text("** ➻ sᴛʀᴇᴀᴍ ᴇɴᴅᴇᴅ/sᴛᴏᴩᴩᴇᴅ ❄
 │ 
-└ʙʏ :🥀**")
+└ʙʏ : 🥀**")
 
 
 @Client.on_message(command(["resume"]) & other_filters)
