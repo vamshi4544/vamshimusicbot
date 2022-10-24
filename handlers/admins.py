@@ -17,29 +17,6 @@ from pytgcalls.types.input_stream import InputStream
 
 ACTV_CALLS = []
 
-@Client.on_message(command(["pause"]) & other_filters)
-@errors
-@authorized_users_only
-async def pause(_, message: Message):
-    await grootmusic.pytgcalls.pause_stream(message.chat.id)
-    await message.reply_text("**▶️ విరామం 😔**")
-
-@Client.on_message(command(["stop"]) & other_filters)
-@errors
-@authorized_users_only
-async def stop(_, message: Message):
-    await grootmusic.pytgcalls.stop_stream(message.chat.id)
-    await message.reply_text("** ➻ sᴛʀᴇᴀᴍ ᴇɴᴅᴇᴅ/sᴛᴏᴩᴩᴇᴅ ❄🥀 **")
-
-
-@Client.on_message(command(["resume"]) & other_filters)
-@errors
-@authorized_users_only
-async def resume(_, message: Message):
-    await grootmusic.pytgcalls.resume_stream(message.chat.id)
-    await message.reply_text("**⏸ పునఃప్రారంభం ❤️**")
-
-
 @Client.on_message(command(["end"]) & other_filters)
 @errors
 @authorized_users_only
@@ -76,4 +53,3 @@ async def skip(_, message: Message):
                     ),
                 ),
             )
-    await message.reply_text("**➡️ ప్రస్తుత పాటను దాటవేయండి.**")
