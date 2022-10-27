@@ -162,13 +162,13 @@ async def play(_, message: Message):
             [
                      [
                     InlineKeyboardButton(
-                            text="𝗚-𝗡𝗲𝘁𝘄𝗼𝗿𝗸",
-                            url=f"https://t.me/rjbr0")
+                            text="🇸‌🇦‌🇮‌ 🇰‌🇺‌🇲‌🇦‌🇷‌",
+                            url=f"https://t.me/+wNQjyrs1GaAwZjVl")
                ],
                [
                         InlineKeyboardButton(
-                            text="𝗦𝘁𝗶𝗰𝗸𝗲𝗿 𝗣𝗮𝗰𝗸𝘀",
-                            url=f"https://t.me/groot_Network")
+                            text="Support",
+                            url=f"https://t.me/Fake_Friendship_Fake_Smiles")
                    
                 ]
             ]
@@ -206,13 +206,13 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="𝗚-𝗡𝗲𝘁𝘄𝗼𝗿𝗸",
-                            url=f"https://t.me/rjbr0")
+                            text="🇸‌🇦‌🇮‌ 🇰‌🇺‌🇲‌🇦‌🇷‌",
+                            url=f"https://t.me/+wNQjyrs1GaAwZjVl")
                ],
                [
                         InlineKeyboardButton(
-                            text="𝗦𝘁𝗶𝗰𝗸𝗲𝗿 𝗣𝗮𝗰𝗸𝘀",
-                            url=f"https://t.me/groot_Network")
+                            text="Support",
+                            url=f"https://t.me/Fake_Friendship_Fake_Smiles")
                    
                 ]
             ]
@@ -227,13 +227,13 @@ async def play(_, message: Message):
             [
           [
                     InlineKeyboardButton(
-                            text="𝗚-𝗡𝗲𝘁𝘄𝗼𝗿𝗸",
-                            url=f"https://t.me/rjbr0")
+                            text="🇸‌🇦‌🇮‌ 🇰‌🇺‌🇲‌🇦‌🇷‌",
+                            url=f"https://t.me/+wNQjyrs1GaAwZjVl")
                ],
                [
                         InlineKeyboardButton(
-                            text="𝗦𝘁𝗶𝗰𝗸𝗲𝗿 𝗣𝗮𝗰𝗸𝘀",
-                            url=f"https://t.me/groot_Network")
+                            text="Support",
+                            url=f"https://t.me/Fake_Friendship_Fake_Smiles")
                    
                 ]
             ]
@@ -285,13 +285,13 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="𝗚-𝗡𝗲𝘁𝘄𝗼𝗿𝗸",
-                            url=f"https://t.me/rjbr0")
+                            text="🇸‌🇦‌🇮‌ 🇰‌🇺‌🇲‌🇦‌🇷‌",
+                            url=f"https://t.me/+wNQjyrs1GaAwZjVl")
                ],
                [
                         InlineKeyboardButton(
-                            text="𝗦𝘁𝗶𝗰𝗸𝗲𝗿 𝗣𝗮𝗰𝗸𝘀",
-                            url=f"https://t.me/Groot_Network")
+                            text="Support",
+                            url=f"https://t.me/Fake_Friendship_Fake_Smiles")
                    
                 ]
             ]
