@@ -24,7 +24,7 @@ async def start_(client: Client, message: Message):
 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐀𝐮𝐝𝐢𝐨 𝐀𝐧𝐝 𝐕𝐢𝐝𝐞𝐨 🌷 ...
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup( [[
-           InlineKeyboardButton("🌱❰𝐆𝐫𝐨𝐨𝐭 𝐍𝐞𝐭𝐰𝐨𝐫𝐤❱✨", url=f"https://t.me/Groot_Network"),
+           InlineKeyboardButton("🌱❰𝐆𝐫𝐨𝐨𝐭 𝐍𝐞𝐭𝐰𝐨𝐫𝐤❱✨", url=f"https://t.me/+wNQjyrs1GaAwZjVl"),
            ],[
            InlineKeyboardButton("🌸❰𝐔𝐩𝐝𝐚𝐭𝐞𝐬❱✨", url="https://t.me/Fake_Friendship_Fake_Smiles"),
            ]]
