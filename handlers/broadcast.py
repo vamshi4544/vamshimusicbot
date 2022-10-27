@@ -1,8 +1,3 @@
-# Copyright (C) 2022 By GrootmusicProject
-# Originally written by G-Network on github
-# Broadcast function
-
-
 import asyncio
 
 from pyrogram import Client, filters
