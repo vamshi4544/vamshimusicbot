@@ -35,8 +35,8 @@ async def start_(client: Client, message: Message):
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph//file/8fcabe7ad93f3ece32408.jpg",
-        caption=f"""**
+        caption=f"""**)
                 ]
             ]
-        ),
+        )
     )
