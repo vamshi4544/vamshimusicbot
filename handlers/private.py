@@ -11,7 +11,7 @@ from config import BOT_USERNAME
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/bb20e1b39e8d7a31f7cbc.jpg",
+        photo=f"https://telegra.ph//file/dbb9fe2d8746340eec9b1.jpg",
         caption=f"""**
 ━━━━━━━━━━━━━━━━━━━━━━━━
 😒 𝐖𝐞𝐥𝐜𝐨𝐦𝐞**{message.from_user.mention()} 👋**
