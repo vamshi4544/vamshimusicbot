@@ -24,7 +24,7 @@ async def start_(client: Client, message: Message):
 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐀𝐮𝐝𝐢𝐨 𝐀𝐧𝐝 𝐕𝐢𝐝𝐞𝐨 🌷 ...
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup( [[
-           InlineKeyboardButton("🌱❰𝐆𝐫𝐨𝐨𝐭 𝐍𝐞𝐭𝐰𝐨𝐫𝐤❱✨", url=f"https://t.me/+wNQjyrs1GaAwZjVl"),
+           InlineKeyboardButton("🎗️❰🇸‌🇦‌🇮‌ 🇰‌🇺‌🇲‌🇦‌🇷‌❱✨", url=f"https://t.me/+wNQjyrs1GaAwZjVl"),
            ],[
            InlineKeyboardButton("🌸❰𝐔𝐩𝐝𝐚𝐭𝐞𝐬❱✨", url="https://t.me/Fake_Friendship_Fake_Smiles"),
            ]]
@@ -34,13 +34,8 @@ async def start_(client: Client, message: Message):
 @Client.on_message(command(["Groot"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/0c448c9873a3dcb62673a.jpg",
-        caption=f"""**🥀🖤 ʸᵒᵘʳ 𝗛𝗘𝗔𝗥𝗧 ⁱˢ 𝗠𝗬 𝗥𝗘𝗦𝗣𝗢𝗡𝗦𝗜𝗕𝗜𝗟𝗜𝗧𝗬🖤🥀**""",
-        reply_markup=InlineKeyboardMarkup(
-            [
-                [
-                    InlineKeyboardButton(
-                        "@𝗠𝘆𝗡𝗮𝗺𝗲𝗜𝘀𝗚𝗿𝗼𝗼𝘁", url=f"https://t.me/MyNameIsGroot")
+        photo=f"https://telegra.ph//file/8fcabe7ad93f3ece32408.jpg",
+        caption=f"""**
                 ]
             ]
         ),
