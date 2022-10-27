@@ -13,7 +13,7 @@
 
 ## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐨𝐧 𝐇𝐞𝐫𝐨𝐤𝐮 🎗️
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/RobinMusiczz/honeyMusicBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-blue?style=for-the-badge&=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/tokyoworld/Ammu"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-blue?style=for-the-badge&=heroku" width="220" height="38.45"/></a></p>
 
 ## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐨𝐧 𝐎𝐤𝐭𝐞𝐭𝐨 🎗️
 
