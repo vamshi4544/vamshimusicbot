@@ -31,12 +31,25 @@ async def start_(client: Client, message: Message):
            )
      )
     
-@Client.on_message(command(["Groot"]) & filters.group & ~filters.edited)
-async def help(client: Client, message: Message):
-    await message.reply_photo(
-        photo=f"https://telegra.ph//file/8fcabe7ad93f3ece32408.jpg",
-        caption=f""")
+@Client.on_message(command(["/start", "/alive", "#Helen"]) & filters.group & ~filters.edited)
+async def start(client: Client, message: Message):
+    await message.reply_text(f"""**✅ 𝐓𝐡𝐚𝐧𝐤 𝐘𝐨𝐮 𝐅𝐨𝐫 𝐔𝐬𝐢𝐧𝐠 𝐌𝐞 𝐈𝐧
+𝐂𝐡𝐚𝐭 »  {message.chat.title}
+🥀 𝐈𝐟 𝐘𝐨𝐮 𝐇𝐚𝐯𝐞 📀 𝐀𝐧𝐲 𝐐𝐮𝐞𝐫𝐢𝐞𝐬
+𝐓𝐡𝐞𝐧 𝐄𝐱𝐩𝐥𝐚𝐢𝐧 💬 𝐓𝐨 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫.
+💐 𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ‖ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭
+𝐅𝐨𝐫 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐍𝐞𝐰 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 💞...**""",
+     reply_markup=InlineKeyboardMarkup(
+            [
+                [
+                    InlineKeyboardButton(
+                        "🥀 ❰ 𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 ❱ ✨", url=f"https://t.me/+wNQjyrs1GaAwZjVl"),
+                ],
+                [
+                    InlineKeyboardButton(
+                        "📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬", url=f"https://t.me/+wNQjyrs1GaAwZjVl"),
                 ]
-            ]
-        )
-    )
+           ]
+        ),
+      disable_web_page_preview=True,
+     )
