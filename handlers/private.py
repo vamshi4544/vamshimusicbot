@@ -26,7 +26,7 @@ async def start_(client: Client, message: Message):
     reply_markup=InlineKeyboardMarkup( [[
            InlineKeyboardButton("🌱❰𝐆𝐫𝐨𝐨𝐭 𝐍𝐞𝐭𝐰𝐨𝐫𝐤❱✨", url=f"https://t.me/Groot_Network"),
            ],[
-           InlineKeyboardButton("🌸❰𝐔𝐩𝐝𝐚𝐭𝐞𝐬❱✨", url="https://t.me/RJbr0"),
+           InlineKeyboardButton("🌸❰𝐔𝐩𝐝𝐚𝐭𝐞𝐬❱✨", url="https://t.me/Fake_Friendship_Fake_Smiles"),
            ]]
            )
      )
