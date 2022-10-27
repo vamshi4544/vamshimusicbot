@@ -167,7 +167,7 @@ async def play(_, message: Message):
                ],
                [
                         InlineKeyboardButton(
-                            text="Support",
+                            text="🇸‌🇺‌🇵‌🇵‌🇴‌🇷‌🇹‌",
                             url=f"https://t.me/Fake_Friendship_Fake_Smiles")
                    
                 ]
@@ -211,7 +211,7 @@ async def play(_, message: Message):
                ],
                [
                         InlineKeyboardButton(
-                            text="Support",
+                            text="🇸‌🇺‌🇵‌🇵‌🇴‌🇷‌🇹‌",
                             url=f"https://t.me/Fake_Friendship_Fake_Smiles")
                    
                 ]
@@ -232,7 +232,7 @@ async def play(_, message: Message):
                ],
                [
                         InlineKeyboardButton(
-                            text="Support",
+                            text="🇸‌🇺‌🇵‌🇵‌🇴‌🇷‌🇹‌",
                             url=f"https://t.me/Fake_Friendship_Fake_Smiles")
                    
                 ]
@@ -290,7 +290,7 @@ async def play(_, message: Message):
                ],
                [
                         InlineKeyboardButton(
-                            text="Support",
+                            text="🇸‌🇺‌🇵‌🇵‌🇴‌🇷‌🇹‌",
                             url=f"https://t.me/Fake_Friendship_Fake_Smiles")
                    
                 ]
