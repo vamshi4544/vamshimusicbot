@@ -1,5 +1,5 @@
 
-name: Groot Workflow
+name: Ammu Workflow
 
 on:
   push:
@@ -24,12 +24,12 @@ jobs:
             "github_token=${{ secrets.GITHUB_TOKEN }}"
       run: sudo apt update && sudo apt install git curl python3-pip ffmpeg -y && pip3 install -U pip && npm init -y && npm i --save-dev node@16 && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH && pip3 install -U -r requirements.txt && python3 -m main.py
    
-     - name: loop Groot workflow server
+     - name: loop Ammu workflow server
          continue-on-error: true
          run: 
-              git clone https://github.com/GMN630/GrootNetworkOfficial loop
+              git clone https://github.com/tokyoworld/Ammuofficial  loop
               cd loop || exit 1
               echo $(date -u +%T%P) >> loop.txt
               git add loop.txt
-              git commit -m "Groot workflow : Loop $(date -u +%D-%T%P)"
-              git push -q https://${{ secrets.GIT_TOKEN }}@github.com/GMN630/GrootNetworkOfficial HEAD:Groot workflow
+              git commit -m "Ammu workflow : Loop $(date -u +%D-%T%P)"
+              git push -q https://${{ secrets.GIT_TOKEN }}@github.com/tokyoworld/Ammuofficial HEAD:Ammu workflow
