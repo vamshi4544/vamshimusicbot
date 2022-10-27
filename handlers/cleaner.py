@@ -1,7 +1,3 @@
-#G-Network Music Projects
-#Copyright (C) 2022 By @Groot_Network
-#Don't Any Value In This Repo If You Edit Your Github Will Get Banned 😌
-
 import os
 from pyrogram import Client, filters
 from pyrogram.types import Message
