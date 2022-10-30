@@ -162,12 +162,12 @@ async def play(_, message: Message):
             [
                      [
                     InlineKeyboardButton(
-                            text="🇸‌🇦‌🇮‌ 🇰‌🇺‌🇲‌🇦‌🇷‌",
+                            text=" vamshi",
                             url=f"https://t.me/+wNQjyrs1GaAwZjVl")
                ],
                [
                         InlineKeyboardButton(
-                            text="🇸‌🇺‌🇵‌🇵‌🇴‌🇷‌🇹‌",
+                            text="support",
                             url=f"https://t.me/Fake_Friendship_Fake_Smiles")
                    
                 ]
@@ -206,12 +206,12 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="🇸‌🇦‌🇮‌ 🇰‌🇺‌🇲‌🇦‌🇷‌",
+                            text="vamshi",
                             url=f"https://t.me/+wNQjyrs1GaAwZjVl")
                ],
                [
                         InlineKeyboardButton(
-                            text="🇸‌🇺‌🇵‌🇵‌🇴‌🇷‌🇹‌",
+                            text="support",
                             url=f"https://t.me/Fake_Friendship_Fake_Smiles")
                    
                 ]
@@ -227,12 +227,12 @@ async def play(_, message: Message):
             [
           [
                     InlineKeyboardButton(
-                            text="🇸‌🇦‌🇮‌ 🇰‌🇺‌🇲‌🇦‌🇷‌",
+                            text="vamshi",
                             url=f"https://t.me/+wNQjyrs1GaAwZjVl")
                ],
                [
                         InlineKeyboardButton(
-                            text="🇸‌🇺‌🇵‌🇵‌🇴‌🇷‌🇹‌",
+                            text="support",
                             url=f"https://t.me/Fake_Friendship_Fake_Smiles")
                    
                 ]
@@ -285,12 +285,12 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="🇸‌🇦‌🇮‌ 🇰‌🇺‌🇲‌🇦‌🇷‌",
+                            text="vamshi",
                             url=f"https://t.me/+wNQjyrs1GaAwZjVl")
                ],
                [
                         InlineKeyboardButton(
-                            text="🇸‌🇺‌🇵‌🇵‌🇴‌🇷‌🇹‌",
+                            text="support",
                             url=f"https://t.me/Fake_Friendship_Fake_Smiles")
                    
                 ]
@@ -313,7 +313,7 @@ async def play(_, message: Message):
         position = await queues.put(chat_id, file=file_path)
         await message.reply_photo(
             photo="final.png",
-            caption="****🧚 𝗔𝗺𝗺𝘂 🍄 𝗠𝘂𝘀𝗶𝗰 𝗦𝗼𝗻𝗴 𝗣𝗼𝘀𝗶𝘁𝗶𝗼𝗻** {}**".format(position),
+            caption="****🧚 jessi 🍄 𝗠𝘂𝘀𝗶𝗰 𝗦𝗼𝗻𝗴 𝗣𝗼𝘀𝗶𝘁𝗶𝗼𝗻** {}**".format(position),
             reply_markup=keyboard,
         )
     else:
@@ -331,7 +331,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="**🧚 𝗔𝗺𝗺𝘂 🍄 𝗡𝗼𝘄 𝗣𝗹𝗮𝘆𝗶𝗻𝗴 👌`{}`...**".format(
+            caption="**🧚 jessi 🍄 𝗡𝗼𝘄 𝗣𝗹𝗮𝘆𝗶𝗻𝗴 👌`{}`...**".format(
         message.chat.title
         ), )
 
