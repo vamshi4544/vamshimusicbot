@@ -11,25 +11,25 @@ jessi music bot
 
 
 
-## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐨𝐧 𝐇𝐞𝐫𝐨𝐤𝐮 🎗️
+## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐨𝐧 𝐇𝐞𝐫𝐨𝐤𝐮 🆚
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/tokyoworld/Ammu"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-blue?style=for-the-badge&=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/vamshi4544/vamshimusicbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-blue?style=for-the-badge&=heroku" width="220" height="38.45"/></a></p>
 
-## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐨𝐧 𝐎𝐤𝐭𝐞𝐭𝐨 🎗️
+## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐨𝐧 𝐎𝐤𝐭𝐞𝐭𝐨 ❣️
 
-<p align="center"><a href="https://cloud.okteto.com/new?template=https://github.com/tokyoworld/Ammu"> <img src="https://img.shields.io/badge/Deploy%20On%20Okteto-blue?style=for-the-badge&=Okteto" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://cloud.okteto.com/new?template=https://github.com/vamshi4544/vamshimusicbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Okteto-blue?style=for-the-badge&=Okteto" width="220" height="38.45"/></a></p>
 
-## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐨𝐧 𝐑𝐚𝐢𝐥𝐰𝐚𝐲 🎗️
+## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐨𝐧 𝐑𝐚𝐢𝐥𝐰𝐚𝐲 🖤
 <br><b> Necessary Variables in config.py file you have to fill. </b><br>
 
-<p align="center"><a href="https://railway.app/new/new?template=https://github.com/tokyoworld/Ammu-Deploy&envs=SESSION_NAME,BOT_TOKEN,BOT_NAME,BOT_USERNAME,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT"> <img src="https://img.shields.io/badge/Deploy%20on%20Railway-blue?style=for-the-badge&=railway" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://railway.app/new/new?template=https://github.com/vamshi4544/vamshimusicbot-Deploy&envs=SESSION_NAME,BOT_TOKEN,BOT_NAME,BOT_USERNAME,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT"> <img src="https://img.shields.io/badge/Deploy%20on%20Railway-blue?style=for-the-badge&=railway" width="220" height="38.45"/></a></p>
 
-## 𝐖𝐨𝐫𝐤𝐟𝐥𝐨𝐰𝐬 𝐇𝐨𝐬𝐭𝐢𝐧𝐠 🎗️
+## 𝐖𝐨𝐫𝐤𝐟𝐥𝐨𝐰𝐬 𝐇𝐨𝐬𝐭𝐢𝐧𝐠 💓
 
 <h4>Fork this project first. How to host? Simply import your variable code then fill your vars in config.py then go to Actions and check build logs!</h4>
-<p align="center"><a href="https://github.com/tokyoworld/Ammu/fork"><img src="https://img.shields.io/badge/Workflow%20Deploy-blue?style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://github.com/vamshi4544/vamshimusicbot/fork"><img src="https://img.shields.io/badge/Workflow%20Deploy-blue?style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
 
-## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐎𝐧 𝐕𝐏𝐒 𝐒𝐞𝐫𝐯𝐞𝐫 👻
+## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐎𝐧 𝐕𝐏𝐒 𝐒𝐞𝐫𝐯𝐞𝐫 ❤️
 
 ```sh
 sudo apt update && apt upgrade -y
@@ -38,7 +38,7 @@ pip3 install -U pip
 curl -sL https://deb.nodesource.com/setup_16.x | bash -
 sudo apt-get install -y nodejs
 npm i -g npm
-git clone https://github.com/tokyoworld/Ammu # Clone your repo.
+git clone https://github.com/vamshi4544/vamshimusicbot # Clone your repo.
 cd honeyMusicBot
 pip3 install -U -r requirements.txt
 cp example.env .env #Use vim to edit ENVs
