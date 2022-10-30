@@ -11,7 +11,7 @@ from config import BOT_USERNAME
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph//file/dbb9fe2d8746340eec9b1.jpg",
+        photo=f"https://telegra.ph//file/4c023f58608eae150175a.jpg",
         caption=f"""**
 ━━━━━━━━━━━━━━━━━━━━━━━━
 😒 𝐖𝐞𝐥𝐜𝐨𝐦𝐞**{message.from_user.mention()} 👋**
@@ -24,7 +24,7 @@ async def start_(client: Client, message: Message):
 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐀𝐮𝐝𝐢𝐨 𝐀𝐧𝐝 𝐕𝐢𝐝𝐞𝐨 🌷 ...
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup( [[
-           InlineKeyboardButton("🎗️❰🇸‌🇦‌🇮‌ 🇰‌🇺‌🇲‌🇦‌🇷‌❱✨", url=f"https://t.me/+wNQjyrs1GaAwZjVl"),
+           InlineKeyboardButton("🎗️❰vamshi❱✨", url=f"https://t.me/+wNQjyrs1GaAwZjVl"),
            ],[
            InlineKeyboardButton("🌸❰𝐔𝐩𝐝𝐚𝐭𝐞𝐬❱✨", url="https://t.me/Fake_Friendship_Fake_Smiles"),
            ]]
