@@ -45,7 +45,7 @@ cp example.env .env #Use vim to edit ENVs
 vim .env #Fill up your ENVs ( Steps press i to enter in insert mode then edit the file. Press Esc to exit the editing mode then type :wq! and press Enter key to save the file.)
 python3 main.py # Run the bot
 ```
-[![𝐈𝐚𝐦 𝐆𝐫𝐨𝐨𝐭 🌱](https://telegra.ph//file/a8da659b4ace64c06edd0.jpg)](https://t.me/MyNameIsGroot)
+[![𝐈𝐚𝐦 𝐆𝐫𝐨𝐨𝐭 🌱](https://telegra.ph//file/802d6078e9d5502249851.jpg)](https://t.me/MyNameIsGroot)
 
 <p align="center"> 【⋆𝐆𝐫𝐨𝐮𝐩 ✘ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥⋆】 </p>
 
